@@ -1,39 +1,98 @@
-body{
+body {
     font-family: 'Open Sans', sans-serif;
 }
 
-.btn{
+.btn {
     border-radius: 5px;
-background: #F15B22;
-border: 0;
+    background: #F15B22;
+    border: 0;
 }
 
-.think{
+.think {
     padding: 30px 30px 30px 150px;
     display: flex;
     align-items: center;
     background-color: lightgray;
 }
 
-.imaf{
+.imaf {
     width: 700px;
 }
 
-.things{
+.things {
 
     padding: 100px 50px 50px 100px;
 }
 
-.disp{
+.disp {
     display: flex;
     margin: 50px;
 }
-.my{
+
+.my {
     text-align: center;
     padding: 50px 50px 50px 30px;
 }
 
-.any{
+.do {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
 
-    
+.doo {
+    text-align: center;
+}
+
+.skills {
+    display: flex;
+    padding: 30px;
+    gap: 30px;
+    text-align: center;
+    justify-content: space-around;
+}
+
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.skill-title {
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.skill-des {
+    color: #737272;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.footer {
+    margin: 30px;
+    background-image: url('../images/watch.png');
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.last {
+    padding: 20px;
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#btn {
+    border-radius: 5px;
+    background: #FFF;
+}
+
+.but {
+    margin: 20px;
+    color: #F15B22;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
 }
