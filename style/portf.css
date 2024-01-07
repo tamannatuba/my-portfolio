@@ -1,0 +1,39 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn{
+    border-radius: 5px;
+background: #F15B22;
+border: 0;
+}
+
+.think{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+    background-color: lightgray;
+}
+
+.imaf{
+    width: 700px;
+}
+
+.things{
+
+    padding: 100px 50px 50px 100px;
+}
+
+.disp{
+    display: flex;
+    margin: 50px;
+}
+.my{
+    text-align: center;
+    padding: 50px 50px 50px 30px;
+}
+
+.any{
+
+    
+}
